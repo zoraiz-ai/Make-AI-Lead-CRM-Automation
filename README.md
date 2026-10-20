@@ -38,9 +38,6 @@ The workflow automatically receives sales leads, analyzes their information usin
 - AI Lead Scoring Output
 - Airtable CRM Results
 
-## Project Files
-The repository includes a Make.com scenario blueprint in JSON format and screenshots demonstrating the workflow.
-
 ## Project Status
 **Completed – Tested with sample leads**
 
