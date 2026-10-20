@@ -34,9 +34,15 @@ The workflow automatically receives sales leads, analyzes their information usin
 6. Store the lead score, priority, status, and AI summary in Airtable.
 
 ## Portfolio Screenshots
-- Complete Workflow
-- AI Lead Scoring Output
-- Airtable CRM Results
+
+### 1. Complete Workflow
+![Complete Workflow](Complete%20Workflow.jpg)
+
+### 2. AI Lead Scoring Output
+![AI Lead Scoring Output](AI-Lead-Scoring-Output.jpg)
+
+### 3. Airtable CRM Results
+![Airtable CRM Results](Airtable%20CRM%20Results.jpg)
 
 ## Project Status
 **Completed – Tested with sample leads**
